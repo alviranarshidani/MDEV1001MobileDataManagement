@@ -1,0 +1,24 @@
+{
+  "name": "mdev1001mobiledatamanagement",
+  "version": "1.0.0",
+  "description": "Mobile Data Management",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^12.0.0",
+    "typescript": "^3.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alviranarshidani/MDEV1001MobileDataManagement.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alviranarshidani/MDEV1001MobileDataManagement/issues"
+  },
+  "homepage": "https://github.com/alviranarshidani/MDEV1001MobileDataManagement#readme"
+}
